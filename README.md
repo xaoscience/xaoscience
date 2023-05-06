@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaoscience
 - 🎓 I'm educated in Biotechnology (BASc), Graphic Design, Media Arts, Music theory & drumming, Karate, e.a.
-- 👀 I’m interested in Data Science, Bioinformatics, Molecular Science, BioMusic Theory, Gaming, e.a.
+- 👀 I’m interested in Data Science, Bioinformatics, Molecular Science, Music Theory, Gaming, e.a.
 - 🌱 I’m currently learning PHP, NodeJS, ThreeJS, C
 - 💞️ I’m looking to collaborate on Nginx restreaming & overlay, Web design, e.a.
 - 📫 How to reach me: xaoscience@gmail.com
