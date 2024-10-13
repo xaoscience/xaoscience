@@ -2,7 +2,7 @@
 - 🎓 I'm educated in Biotechnology (BASc), Graphic Design, Media Arts, Music theory, e.a.
 - 👀 I’m interested in Data Science, Bioinformatics, Molecular Science, Music Theory, Gaming, e.a.
 - 🌱 I’m currently learning PHP, NodeJS, ThreeJS, C
-- 💞️ I’m looking to collaborate on Nginx restreaming & overlay, Web design, e.a.
+- 💞️ I’m looking to collaborate or find amazing data, security or development programs!
 - 📫 How to reach me: xaoscience@gmail.com
 
 <!---
