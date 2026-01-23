@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaoscience
 - 🎓 A biotechnology engineer and audiovisual artist.
-- 👀 Interested in Data Science (e.g. Bioinformatics), Molecular Science, Gaming, e.a.
+- 👀 Interested in Data Science (e.g. Bioinformatics), Molecular Science, Gaming, Music Theory e.a.
 - 🌱 I’m currently learning bash, PHP, NodeJS, ThreeJS, C, C++, e.a.
 - 💞️ I’m looking to collaborate or find amazing art, data, security or development programs!
 - 🤖 I applaud your Github integrations, but automated follows are removed
